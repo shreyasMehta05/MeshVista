@@ -5,6 +5,13 @@
 
 ---
 
+## Screenshots
+
+![3D Model Viewer showing colorful point cloud visualization](./screenshots/screenshot-1.png)
+
+The MeshVista 3D Model Viewer displaying a colorful point cloud with RGB vertex coloring.
+
+
 ## Authors 🧑‍💻
 
 **Shreyas Mehta** (2023101059)  
